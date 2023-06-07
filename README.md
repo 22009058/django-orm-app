@@ -62,7 +62,7 @@ admin.site.register(Student,StudentAdmin)
 
 ### clientoutput
 
-![clientoutput](serveroutput.png)
+
 ![Primarykey](serveroutput.png)
 ![Student list](https://github.com/22009058/django-orm-app/assets/121917232/7c0a6199-9d62-4a23-be3b-ab0692e80db3)
 
