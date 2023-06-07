@@ -3,10 +3,6 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
-
-
-
 ### STEP 1:
    Clone the repository from github
 
