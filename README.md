@@ -5,17 +5,30 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
 
-## DESIGN STEPS
 
 ### STEP 1:
+   Clone the repository from github
 
 ### STEP 2:
+   Create an admin page for Django.
 
 ### STEP 3:
+   create an app and edit settings.py
 
-Write your own steps
+### STEP 4:
+   Makemigration and migrate the changes.
+
+### STEP 5:
+   Create admin user and write python code for admin and models
+
+### STEP 6:
+   Make all the migration to my app
+
+### STEP 7:
+   Create a students database with 10 fields using runservercommand
+admin.py
+
 
 ## PROGRAM
 
@@ -43,7 +56,6 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-
 ### serveroutput
 
 ![serveroutput](serveroutput.png)
@@ -51,6 +63,8 @@ admin.site.register(Student,StudentAdmin)
 ### clientoutput
 
 ![clientoutput](serveroutput.png)
-
 ![Primarykey](serveroutput.png)
+![Student list](https://github.com/22009058/django-orm-app/assets/121917232/7c0a6199-9d62-4a23-be3b-ab0692e80db3)
+
 ## RESULT
+The program for creating a studentdatabase using ORM is executed successfully.
